@@ -1,0 +1,22 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "fdbc2a50-9b67-4533-a888-21f2f768ad2d"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "0"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/kakaku2/abab",
+    "stack": "container"
+}
