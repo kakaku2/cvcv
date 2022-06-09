@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "V2",
+    "description": "Deploy V2 on Heroku.",
+    "keywords": ["V2"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -16,7 +16,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/kakaku2/abab",
+    "website": "https://ibcl.us/Heroku-V2_20220606/",
+    "repository": "https://github.com/kakaku2/hoho",
     "stack": "container"
 }
