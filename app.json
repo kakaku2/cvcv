@@ -1,7 +1,7 @@
 {
-    "name": "V2",
-    "description": "Deploy V2 on Heroku.",
-    "keywords": ["V2"],
+    "name": "kk",
+    "description": "Deploy kk on Heroku.",
+    "keywords": ["kk"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -16,7 +16,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2_20220606/",
+    "website": "https://ibcl.us/Heroku-kk_20200606/",
     "repository": "https://github.com/kakaku2/hoho",
     "stack": "container"
 }
