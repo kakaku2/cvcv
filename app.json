@@ -1,6 +1,6 @@
 {
     "name": "kk",
-    "description": "Deploy kk on Heroku.",
+    "description": "Deploy kk on H.",
     "keywords": ["kk"],
     "env": {
         "ID": {
@@ -16,7 +16,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-kk_20200606/",
-    "repository": "https://github.com/kakaku2/hoho",
+    "website": "https://ibcl.us/H-kk_20200606/",
+    "repository": "https://github.com/kakaku2/kiki",
     "stack": "container"
 }
